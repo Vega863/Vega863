@@ -1,4 +1,4 @@
-### Hi there 👋I'm 𝓥𝓮𝓰𝓪
+### Hi there 👋I'm Vega
 
 # 💫 About Me:
 - 🔭 I’m currently working on Orion-Obfuscator.<br>- 🌱 I’m currently learning python for the moment.<br>- 💬 You can ask me about how this will work.<br>- 📫 How to reach me: https://discord.io/Vega863<br>- ⚡Citation  : "Je suis le chemin, la vérité et la vie. Nul ne vient au Père que par moi."<br>
